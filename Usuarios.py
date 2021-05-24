@@ -1,1 +1,3 @@
-print("Alô Mundo!")
+usuarios = [kent, wayne, walker]
+
+
