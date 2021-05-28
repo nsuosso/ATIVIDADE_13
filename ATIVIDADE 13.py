@@ -27,3 +27,12 @@ usuario = {
 }
 # Inclui este usuario na lista de usuarios
 usuarios.append(usuario)
+
+# Insira seu username = username
+input("Insira seu username:")
+if input("kent"):
+if input("wayne"):
+if input("walker"):
+    input("Insira sua senha:")
+while input():
+    input("Insira seu username:")
